@@ -1,0 +1,2 @@
+phrase = "Giraffe"
+print(phrase)
